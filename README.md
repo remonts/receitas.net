@@ -1,2 +1,2 @@
 # receitas.net
-Projeto criado para fazer o curso de Bootstrap 4.
+Project created to take the Bootstrap 4 course.
